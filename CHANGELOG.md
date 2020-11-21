@@ -1,5 +1,36 @@
 # Changelog
 
+## [3.1.0](https://www.github.com/jef/streetmerchant/compare/v3.0.0...v3.1.0) (2020-11-21)
+
+
+### Features
+
+* **asus:** add backoff codes ([#790](https://www.github.com/jef/streetmerchant/issues/790)) ([501ea34](https://www.github.com/jef/streetmerchant/commit/501ea34a54e877600050d5a99fd3b71ec799e96a))
+* **canadacomputers:** add ryzen 5000 series ([#842](https://www.github.com/jef/streetmerchant/issues/842)) ([6f27330](https://www.github.com/jef/streetmerchant/commit/6f273305df69ac7b420b5446b4c6824866821a7e))
+* **coolmod:** add `maxPrice` ([#862](https://www.github.com/jef/streetmerchant/issues/862)) ([4b689cb](https://www.github.com/jef/streetmerchant/commit/4b689cb94e99b83c8829c11d1bfe4cd6db9fbd7a))
+* **newegg-ca:** add big navi links ([#843](https://www.github.com/jef/streetmerchant/issues/843)) ([6d292a1](https://www.github.com/jef/streetmerchant/commit/6d292a11cd53bd3893d4a0ff5d13eb2ce3319faa))
+* **notification:** add product link to email and telegram ([#816](https://www.github.com/jef/streetmerchant/issues/816)) ([777c31b](https://www.github.com/jef/streetmerchant/commit/777c31b420a38cab860d98bc6bd8b7ba990c55e7))
+* **playstation:** add `outOfStock` label ([#812](https://www.github.com/jef/streetmerchant/issues/812)) ([eb314af](https://www.github.com/jef/streetmerchant/commit/eb314afda557369dd27266429ac991c47ecc6375))
+* **store:** add `PlayStation` store ([#806](https://www.github.com/jef/streetmerchant/issues/806)) ([7c28c7f](https://www.github.com/jef/streetmerchant/commit/7c28c7f72b171ce914aba770d88e8b1213c41233))
+* **store:** add 3070 models to pccomponentes & coolmod ([#820](https://www.github.com/jef/streetmerchant/issues/820)) ([d0ebffd](https://www.github.com/jef/streetmerchant/commit/d0ebffd056dc166e3557ccf694379bf8c10148b5))
+* **store:** add amd rx 6000 series model ([#832](https://www.github.com/jef/streetmerchant/issues/832)) ([89a762e](https://www.github.com/jef/streetmerchant/commit/89a762e2f5cd2ebd56c2586b1ebead4171b67153))
+* **store:** add topachat ([#776](https://www.github.com/jef/streetmerchant/issues/776)) ([c38bebb](https://www.github.com/jef/streetmerchant/commit/c38bebb49dbe8243d0e3f1205150a33f9ce745aa))
+* add amazon-fr to stores. ([#766](https://www.github.com/jef/streetmerchant/issues/766)) ([02d7c47](https://www.github.com/jef/streetmerchant/commit/02d7c47c4093ad71dfab31f93a9b1390f4cad8a0))
+* **store:** support for canadacomputers ([#772](https://www.github.com/jef/streetmerchant/issues/772)) ([bd69e47](https://www.github.com/jef/streetmerchant/commit/bd69e471f7b47e7faf1d9858992d4157145518aa))
+
+
+### Bug Fixes
+
+* **amazon:** add 5800x and 5600x ([#802](https://www.github.com/jef/streetmerchant/issues/802)) ([167713b](https://www.github.com/jef/streetmerchant/commit/167713bb14080e5e1d2f77c7ee933918b6fd5cfc))
+* **bestbuy-ca:** use proper selector ([#801](https://www.github.com/jef/streetmerchant/issues/801)) ([63d550c](https://www.github.com/jef/streetmerchant/commit/63d550ca63b9bfd534f37b7747a1fae057abedb4))
+* **config:** correcting newline split for multiple user agents ([#824](https://www.github.com/jef/streetmerchant/issues/824)) ([f16a9fb](https://www.github.com/jef/streetmerchant/commit/f16a9fb331fd38590325f399bde369ffa17dbe10))
+
+
+### Reverts
+
+* correcting newline split for multiple user agents ([af631c8](https://www.github.com/jef/streetmerchant/commit/af631c86f1a74d810cabf2d0de1b7bb31d350095)), closes [#824](https://www.github.com/jef/streetmerchant/issues/824)
+* pipeline changes ([efe0d64](https://www.github.com/jef/streetmerchant/commit/efe0d64f060e812fd9846073a13837a3f2a27862))
+
 ## [3.0.0](https://www.github.com/jef/streetmerchant/compare/v2.0.0...v3.0.0) (2020-11-12)
 
 
