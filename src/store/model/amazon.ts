@@ -441,6 +441,33 @@ export const Amazon: Store = {
 			url: 'https://www.amazon.com/dp/B08FC6MR62'
 		},
 		{
+			brand: 'gigabyte',
+			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08NS4W2ZY&Quantity.1=1',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url:
+				'https://www.amazon.com/dp/B08NS4W2ZY'
+		},
+		{
+			brand: 'xfx',
+			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08N6ZLX9B&Quantity.1=1',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url:
+				'https://www.amazon.com/dp/B08N6ZLX9B'
+		},
+		{
+			brand: 'sapphire',
+			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08MVC76SR&Quantity.1=1',
+			model: 'amd reference',
+			series: 'rx6800xt',
+			url:
+				'https://www.amazon.com/dp/B08MVC76SR'
+		},
+		{
 			brand: 'microsoft',
 			model: 'xbox series x',
 			series: 'xboxsx',
